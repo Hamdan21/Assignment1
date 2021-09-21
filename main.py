@@ -4,10 +4,10 @@
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
 def twoNumsAvg(a,b):
-    return 0.0
+    return((a+b)/2)
 
 def test_twoNumbsAvg():
-    x=twoNumsAvg(4.0,6.0)
+    x=twoNumsAvg(2.0,8.0)
     assert(x==5.0)
 
 def run_all_tests():
