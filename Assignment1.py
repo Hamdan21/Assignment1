@@ -89,8 +89,6 @@ def main(): #Main Function that can be called to draw all shapes as specified in
     turtle.done()
 
 
-grid()
-
 
 
 
